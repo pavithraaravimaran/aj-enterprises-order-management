@@ -1,0 +1,1362 @@
+[
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Apple Pillow",
+  "mrp": 135,
+  "retail": 96.43,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Baby Bed",
+  "mrp": 900,
+  "retail": 642.86,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Baby Carrier - III",
+  "mrp": 850,
+  "retail": 642.86,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Baby Neck Pillow",
+  "mrp": 160,
+  "retail": 114.28,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Baby Pack",
+  "mrp": 699,
+  "retail": 468.75,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Baby Sleeping Bag",
+  "mrp": 700,
+  "retail": 500,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Ball Rattle",
+  "mrp": 150,
+  "retail": 100,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Bottle Cover Big",
+  "mrp": 100,
+  "retail": 68.48,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Bottle Cover Small",
+  "mrp": 90,
+  "retail": 61.9,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Breast Pump Manual",
+  "mrp": 950,
+  "retail": 633.33,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Bunny Rattle",
+  "mrp": 99,
+  "retail": 66.29,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "BW Feeder 125ml",
+  "mrp": 85,
+  "retail": 53.13,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "BW Feeder 250ml",
+  "mrp": 95,
+  "retail": 59.38,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Cap & Mitten Set",
+  "mrp": 150,
+  "retail": 139.05,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Cap Soother",
+  "mrp": 35,
+  "retail": 20.76,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Classic Feeder 125ml",
+  "mrp": 135,
+  "retail": 84.38,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Classic Feeder 250ml",
+  "mrp": 159,
+  "retail": 99.38,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Classic Sipper",
+  "mrp": 180,
+  "retail": 106.78,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Classic SS Bottle 300ml",
+  "mrp": 1000,
+  "retail": 593.22,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Classic SS Feeder 125ml",
+  "mrp": 525,
+  "retail": 328.13,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Classic SS Feeder 250ml",
+  "mrp": 550,
+  "retail": 343.75,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Comb Set",
+  "mrp": 125,
+  "retail": 83.71,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Deluxe Feeder Brush",
+  "mrp": 85,
+  "retail": 50.42,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Duck Pillow",
+  "mrp": 135,
+  "retail": 96.43,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Ever Dry Sheet L",
+  "mrp": 610,
+  "retail": 406.66,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Ever Dry Sheet M",
+  "mrp": 350,
+  "retail": 233.34,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Ever Dry Sheet S",
+  "mrp": 200,
+  "retail": 133.34,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Famous SS 250ml",
+  "mrp": 520,
+  "retail": 285.72,
+  "gst": 0
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Feeder & Nipple Brush",
+  "mrp": 55,
+  "retail": 33.9,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Feeder Brush Cleaner",
+  "mrp": 45,
+  "retail": 29.52,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Fish Pillow",
+  "mrp": 135,
+  "retail": 96.43,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Flip Sipper",
+  "mrp": 180,
+  "retail": 106.78,
+  "gst": 18
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Fruit Teether",
+  "mrp": 110,
+  "retail": 92.38,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Gadi Tent Deluxe",
+  "mrp": 1000,
+  "retail": 714.28,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Gadi Tent Small",
+  "mrp": 600,
+  "retail": 464.76,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Handle Sipper",
+  "mrp": 150,
+  "retail": 88.98,
+  "gst": 18
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "HB Feeder 125ml",
+  "mrp": 70,
+  "retail": 43.75,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "HB Feeder 250ml",
+  "mrp": 80,
+  "retail": 50,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "HM Feeder 150ml",
+  "mrp": 175,
+  "retail": 109.38,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "HM Feeder 300ml",
+  "mrp": 200,
+  "retail": 125,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Jump Suit (M)",
+  "mrp": 400,
+  "retail": 266.66,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Junior Potty Seat & Chair",
+  "mrp": 425,
+  "retail": 270.13,
+  "gst": 18
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Kids Pack 4pcs Rattle",
+  "mrp": 325,
+  "retail": 214.28,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Kids Tooth Brush P4",
+  "mrp": 40,
+  "retail": 26.67,
+  "gst": 18
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Loose Puff",
+  "mrp": 60,
+  "retail": 35.59,
+  "gst": 18
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Lucky Pack Bibs",
+  "mrp": 200,
+  "retail": 142.86,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Manual Breast Pump Small",
+  "mrp": 300,
+  "retail": 200,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Mini Feeder 75ml",
+  "mrp": 85,
+  "retail": 53.13,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Mittens Set",
+  "mrp": 125,
+  "retail": 89.29,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "My Cup Regular",
+  "mrp": 105,
+  "retail": 62.28,
+  "gst": 18
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "My Cup Special",
+  "mrp": 125,
+  "retail": 88.98,
+  "gst": 18
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Nail Clipper",
+  "mrp": 199,
+  "retail": 122.88,
+  "gst": 18
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Nose Cleaner",
+  "mrp": 125,
+  "retail": 76.27,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Oral Cleaner",
+  "mrp": 90,
+  "retail": 66.67,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Piyo Piyo Cup",
+  "mrp": 169,
+  "retail": 100.26,
+  "gst": 18
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Piyo Piyo Glass Feeder",
+  "mrp": 169,
+  "retail": 100.26,
+  "gst": 18
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Premium Feeder 125ml",
+  "mrp": 125,
+  "retail": 78.13,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Premium Feeder 250ml",
+  "mrp": 135,
+  "retail": 84.38,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Premium Gadi Tent Small",
+  "mrp": 900,
+  "retail": 600,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Premium Silicon Nipple Shield",
+  "mrp": 200,
+  "retail": 118.64,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Premium Silicone Nipple 18pcs",
+  "mrp": 45,
+  "retail": 20.09,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Premium Socks",
+  "mrp": 75,
+  "retail": 53.57,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Premium SS Feeder 140ml",
+  "mrp": 500,
+  "retail": 312.5,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Premium SS Feeder 240ml",
+  "mrp": 525,
+  "retail": 328.13,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Prestige Feeder 125ml",
+  "mrp": 120,
+  "retail": 75,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Prestige Feeder 250ml",
+  "mrp": 135,
+  "retail": 84.38,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Prestige SS Feeder 140ml",
+  "mrp": 425,
+  "retail": 265.63,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Prestige SS Feeder 240ml",
+  "mrp": 450,
+  "retail": 281.25,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Princess Feeder 125ml",
+  "mrp": 150,
+  "retail": 87.05,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Princess Feeder 250ml",
+  "mrp": 175,
+  "retail": 101.79,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Rai Pillow",
+  "mrp": 175,
+  "retail": 125.01,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Senior Potty Seat & Chair",
+  "mrp": 450,
+  "retail": 286.01,
+  "gst": 18
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Silicon Gum Toother",
+  "mrp": 90,
+  "retail": 56.25,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Silicon Nipple 18pcs",
+  "mrp": 30,
+  "retail": 13.4,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Silicon Nipple 30pcs",
+  "mrp": 30,
+  "retail": 13.4,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Silicone Fruit Nibbler",
+  "mrp": 200,
+  "retail": 133.33,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Silicone Nipple Shield",
+  "mrp": 60,
+  "retail": 35.6,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Soother",
+  "mrp": 30,
+  "retail": 17.8,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Spoon Food Feeder",
+  "mrp": 325,
+  "retail": 203.12,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "SS Double Wall 240ml",
+  "mrp": 750,
+  "retail": 445,
+  "gst": 18
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "SS Feeder 140ml",
+  "mrp": 550,
+  "retail": 343.76,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "SS Feeder 240ml",
+  "mrp": 575,
+  "retail": 359.82,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Stainless Steel 150ml",
+  "mrp": 550,
+  "retail": 343.76,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Stick Musical Rattle",
+  "mrp": 149,
+  "retail": 100,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Teddy Rattle",
+  "mrp": 99,
+  "retail": 66.29,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Toy Amp Jr",
+  "mrp": 70,
+  "retail": 41.52,
+  "gst": 18
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Toy Amp New",
+  "mrp": 100,
+  "retail": 71.19,
+  "gst": 18
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Toy Buddy Rattle",
+  "mrp": 99,
+  "retail": 66.29,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Toy Comb",
+  "mrp": 25,
+  "retail": 16.96,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Toy Container Big",
+  "mrp": 125,
+  "retail": 74.16,
+  "gst": 18
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Toy Container Small",
+  "mrp": 110,
+  "retail": 69.91,
+  "gst": 18
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Toy Feeder Big",
+  "mrp": 139,
+  "retail": 82.46,
+  "gst": 18
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Toy HB Ball",
+  "mrp": 135,
+  "retail": 96.43,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Toy HB Rattle",
+  "mrp": 99,
+  "retail": 66.29,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Toy Key Teether",
+  "mrp": 100,
+  "retail": 62.5,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Toy Ring Teether",
+  "mrp": 100,
+  "retail": 62.5,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Toy Tennis Teether",
+  "mrp": 100,
+  "retail": 62.5,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Wide Neck Nipple",
+  "mrp": 50,
+  "retail": 31.25,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Wonder SS Feeder 140ml",
+  "mrp": 350,
+  "retail": 218.75,
+  "gst": 5
+ },
+ {
+  "brand": "Hello Baby",
+  "categories": "HB",
+  "name": "Wonder SS Feeder 240ml",
+  "mrp": 375,
+  "retail": 234.38,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Mouth Wash",
+  "name": "Mouth Wash (Herbal) 100ml",
+  "mrp": 59,
+  "retail": 43.22,
+  "gst": 18
+ },
+ {
+  "brand": "KPN",
+  "categories": "Mouth Wash",
+  "name": "Mouth Wash (Herbal) 250ml",
+  "mrp": 135,
+  "retail": 98.31,
+  "gst": 18
+ },
+ {
+  "brand": "KPN",
+  "categories": "Others",
+  "name": "Hair Oil 100ml",
+  "mrp": 103,
+  "retail": 84.29,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Others",
+  "name": "Dahamukthi 25gms",
+  "mrp": 20,
+  "retail": 15.71,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Others",
+  "name": "Kasthuri Manjal 50gms",
+  "mrp": 30,
+  "retail": 20.95,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Others",
+  "name": "Pathimukam 15gms",
+  "mrp": 15,
+  "retail": 11.9,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Shampoo",
+  "name": "Anti Dandruff Shampoo 200ml",
+  "mrp": 111,
+  "retail": 90.48,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Shampoo",
+  "name": "Ayurvedic Anti Dandruff Shampoo 100ml",
+  "mrp": 70,
+  "retail": 49.52,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Shampoo",
+  "name": "Ayurvedic Hair Care Shampoo 100ml",
+  "mrp": 70,
+  "retail": 49.52,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Shampoo",
+  "name": "Chemparuthi Thali Hair Cleanser 100ml",
+  "mrp": 60,
+  "retail": 42.38,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Shampoo",
+  "name": "Hair & Scalp Shampoo 100ml",
+  "mrp": 59,
+  "retail": 48.57,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Shampoo",
+  "name": "Hair & Scalp Shampoo 200ml",
+  "mrp": 111,
+  "retail": 90.48,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Shampoo",
+  "name": "Thali Shampoo 200ml",
+  "mrp": 94,
+  "retail": 77.14,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Soap",
+  "name": "Herbal Soap (Dasapushpam) 75gms",
+  "mrp": 28,
+  "retail": 20,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Soap",
+  "name": "Herbal Soap (Neem Tulsi) 75gms",
+  "mrp": 28,
+  "retail": 20,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Soap",
+  "name": "Herbal Soap (Sandal) 75gms",
+  "mrp": 28,
+  "retail": 20,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Soap",
+  "name": "Herbal Soap (Turmeric) 75gms",
+  "mrp": 28,
+  "retail": 20,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Soap",
+  "name": "Herbal Soap (Vetiver) 75gms",
+  "mrp": 28,
+  "retail": 20,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Soap",
+  "name": "Refreshing Glycerin Soap 75g",
+  "mrp": 35,
+  "retail": 29.52,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Soap",
+  "name": "Relaxing Aroma Glycerin Soap 75g",
+  "mrp": 35,
+  "retail": 29.52,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Soap",
+  "name": "Soap Set - Neem Tulsi 75gms (3+1)",
+  "mrp": 114,
+  "retail": 83.05,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Soap",
+  "name": "Soap Set - Sandal 75gms (3+1)",
+  "mrp": 114,
+  "retail": 83.05,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Soap",
+  "name": "Soap Set - Turmeric 75gms (3+1)",
+  "mrp": 114,
+  "retail": 83.05,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Soap",
+  "name": "Soap Set - Vetiver 75gms (3+1)",
+  "mrp": 114,
+  "retail": 83.05,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Tooth Paste",
+  "name": "Herbal Toothpaste 100gms",
+  "mrp": 70,
+  "retail": 54.29,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Tooth Paste",
+  "name": "Herbal Toothpaste 150gms",
+  "mrp": 105,
+  "retail": 73.33,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Tooth Paste",
+  "name": "Herbal Toothpaste 150gms Twin Pack",
+  "mrp": 198,
+  "retail": 139.83,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Tooth Paste",
+  "name": "Herbal Toothpaste 200gms",
+  "mrp": 135,
+  "retail": 104.7,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Tooth Paste",
+  "name": "Herbal Toothpaste 20gms",
+  "mrp": 10,
+  "retail": 7.38,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Tooth Paste",
+  "name": "Herbal Toothpaste 40gms",
+  "mrp": 20,
+  "retail": 14.05,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Tooth Paste",
+  "name": "Toothpaste Aloe Vera 100gms",
+  "mrp": 55,
+  "retail": 43.81,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Tooth Paste",
+  "name": "Toothpaste Aloe Vera 50gms",
+  "mrp": 25,
+  "retail": 16.67,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Tooth Paste",
+  "name": "Toothpaste Gel 150gms",
+  "mrp": 95,
+  "retail": 80.95,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Tooth Paste",
+  "name": "Toothpaste Gel 40gms",
+  "mrp": 20,
+  "retail": 14.05,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Tooth Paste",
+  "name": "Toothpaste Gel 80gms",
+  "mrp": 54,
+  "retail": 37.62,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Tooth Paste",
+  "name": "Toothpaste Red Gel 80gms",
+  "mrp": 54,
+  "retail": 35.23,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Tooth Paste",
+  "name": "Toothpaste Salt 100gms",
+  "mrp": 55,
+  "retail": 47.62,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Tooth Paste",
+  "name": "Toothpaste Salt 50gms",
+  "mrp": 25,
+  "retail": 16.67,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Tooth Powder",
+  "name": "Tooth Powder Strong 40gms",
+  "mrp": 35,
+  "retail": 26.19,
+  "gst": 5
+ },
+ {
+  "brand": "KPN",
+  "categories": "Tooth Powder",
+  "name": "Tooth Powder Strong 80gms",
+  "mrp": 55,
+  "retail": 45.71,
+  "gst": 5
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "AFR",
+  "name": "Afr Pkt - Orange - 10gms",
+  "mrp": 60,
+  "retail": 38.98,
+  "gst": 18
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "AFR",
+  "name": "Afr Pkt - Rose - 10gms",
+  "mrp": 60,
+  "retail": 38.98,
+  "gst": 18
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "AFR",
+  "name": "Afr Pkt - Strawberry - 10gms",
+  "mrp": 60,
+  "retail": 38.98,
+  "gst": 18
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "Broom Stick",
+  "name": "Champ Grass Broom",
+  "mrp": 150,
+  "retail": 95,
+  "gst": 0
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "Broom Stick",
+  "name": "Neo Dust Free Broom",
+  "mrp": 210,
+  "retail": 132.8,
+  "gst": 5
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "Broom Stick",
+  "name": "Supreme Grass Broom",
+  "mrp": 195,
+  "retail": 130,
+  "gst": 0
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "Broom Stick",
+  "name": "Supreme Grass Broom 185mrp",
+  "mrp": 185,
+  "retail": 110,
+  "gst": 0
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "Others",
+  "name": "Advanced Sponge Wipe",
+  "mrp": 70,
+  "retail": 41.53,
+  "gst": 18
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "Others",
+  "name": "Dish Wash Bar 125gms",
+  "mrp": 10,
+  "retail": 6.36,
+  "gst": 18
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "Others",
+  "name": "Glass Cleaner",
+  "mrp": 95,
+  "retail": 53.34,
+  "gst": 18
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "Others",
+  "name": "Nova Poly Cotton Deck Mop",
+  "mrp": 199,
+  "retail": 98.31,
+  "gst": 18
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "Others",
+  "name": "Proshine Floor Cleaning Cloth",
+  "mrp": 85,
+  "retail": 52.38,
+  "gst": 5
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "Others",
+  "name": "Unblox (3 + 1)",
+  "mrp": 90,
+  "retail": 58.47,
+  "gst": 18
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "RFR",
+  "name": "Rfr - Divine - 130gms",
+  "mrp": 175,
+  "retail": 101.7,
+  "gst": 18
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "RFR",
+  "name": "Rfr - Floral - 130gms",
+  "mrp": 175,
+  "retail": 97.46,
+  "gst": 18
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "RFR",
+  "name": "Rfr - Harmony - 130gms",
+  "mrp": 175,
+  "retail": 132.47,
+  "gst": 18
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "RFR",
+  "name": "Rfr - Jasmine - 130gms",
+  "mrp": 175,
+  "retail": 97.46,
+  "gst": 18
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "RFR",
+  "name": "Rfr - Lavender - 130gms",
+  "mrp": 175,
+  "retail": 97.46,
+  "gst": 18
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "RFR",
+  "name": "Rfr - Lemon - 130gms",
+  "mrp": 175,
+  "retail": 97.46,
+  "gst": 18
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "RFR",
+  "name": "Rfr - Lemon Grass - 130gms",
+  "mrp": 175,
+  "retail": 97.46,
+  "gst": 18
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "RFR",
+  "name": "Rfr - Mubaraka - 130gms",
+  "mrp": 175,
+  "retail": 101.7,
+  "gst": 18
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "RFR",
+  "name": "Rfr - Rose - 130gms",
+  "mrp": 175,
+  "retail": 97.46,
+  "gst": 18
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "RFR",
+  "name": "Rfr - Rustic Rain - 130gms",
+  "mrp": 180,
+  "retail": 101.7,
+  "gst": 18
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "RFR",
+  "name": "Rfr - Sandal - 130gms",
+  "mrp": 175,
+  "retail": 97.46,
+  "gst": 18
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "Scrubber",
+  "name": "Duo Power Scrubber",
+  "mrp": 20,
+  "retail": 10.59,
+  "gst": 18
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "Scrubber",
+  "name": "Scrub Pad 2 in 1",
+  "mrp": 30,
+  "retail": 16.95,
+  "gst": 18
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "Scrubber",
+  "name": "Scrub Pad Tough",
+  "mrp": 10,
+  "retail": 6.78,
+  "gst": 18
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "Scrubber",
+  "name": "SS Scrubber Calender Pack",
+  "mrp": 25,
+  "retail": 12.71,
+  "gst": 18
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "Scrubber",
+  "name": "Stainless Steel Scrubber",
+  "mrp": 15,
+  "retail": 6.36,
+  "gst": 18
+ },
+ {
+  "brand": "TTK Good Home",
+  "categories": "Scrubber",
+  "name": "Xtra Tough Scrubber",
+  "mrp": 30,
+  "retail": 15.26,
+  "gst": 18
+ }
+]
