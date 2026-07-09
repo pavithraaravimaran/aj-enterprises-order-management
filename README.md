@@ -105,7 +105,8 @@ The application enables sales representatives to manage products, create custome
 
 | Product Details | Add Product |
 |-----------------|-------------|
-| <img src="https://github.com/user-attachments/assets/0eb3571b-4de7-4289-a85d-f6bd7ff58b98" width="250"/> | <img src="https://github.com/user-attachments/assets/a1aaff4e-8ace-45f9-9b1b-7f03fb250f9b" width="250"/> |
+| <img src="https://github.com/user-attachments/assets/8b8d6c8d-121f-47b7-97b6-1bd2aa8047b2" width="250"/>
+ | <img src="https://github.com/user-attachments/assets/a1aaff4e-8ace-45f9-9b1b-7f03fb250f9b" width="250"/> |
 
 | Edit Product |
 |--------------|
@@ -117,7 +118,7 @@ The application enables sales representatives to manage products, create custome
 
 | Order Preview | Orders |
 |---------------|--------|
-| <img src="https://github.com/user-attachments/assets/4b278ee0-d7c9-40c2-962c-5cfd3d9eac9e" width="250"/> | <img src="https://github.com/user-attachments/assets/ed676f35-ff04-4e8c-b835-159d78ff43b9" width="250"/> |
+|<img src="https://github.com/user-attachments/assets/fa2b3dfd-de64-40f9-afa8-7b083211c378" width="250"/>| <img src="https://github.com/user-attachments/assets/ed676f35-ff04-4e8c-b835-159d78ff43b9" width="250"/> |
 
 ## 📈 Future Improvements
 
