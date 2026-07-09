@@ -105,8 +105,7 @@ The application enables sales representatives to manage products, create custome
 
 | Product Details | Add Product |
 |-----------------|-------------|
-| <img src="https://github.com/user-attachments/assets/8b8d6c8d-121f-47b7-97b6-1bd2aa8047b2" width="250"/>
- | <img src="https://github.com/user-attachments/assets/a1aaff4e-8ace-45f9-9b1b-7f03fb250f9b" width="250"/> |
+| <img src="https://github.com/user-attachments/assets/8b8d6c8d-121f-47b7-97b6-1bd2aa8047b2" width="250"/> | <img src="https://github.com/user-attachments/assets/a1aaff4e-8ace-45f9-9b1b-7f03fb250f9b" width="250"/> |
 
 | Edit Product |
 |--------------|
